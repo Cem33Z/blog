@@ -1,3 +1,11 @@
+menu:
+  home: / || home
+  tags: /tags/ || tags
+  archives: /archives/ || archive
+scheme: Mist
+sidebar:
+  display: hide
 favicon: 
   small: small-dino-dinosaur-dragon-walk-16.png
   medium: small-dino-dinosaur-dragon-walk-32.png
+highlight_theme: night
